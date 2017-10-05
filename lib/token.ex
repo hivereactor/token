@@ -1,6 +1,6 @@
 defmodule Token do
   @moduledoc """
-  A module with functions for generating and hashing strings
+  Functions for generating and hashing strings
 
   ### Configuration
 
