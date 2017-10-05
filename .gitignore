@@ -1,0 +1,9 @@
+/_build
+/.fetch
+/cover
+/deps
+/doc
+.DS_Store
+erl_crash.dump
+Thumbs.db
+*.ez
