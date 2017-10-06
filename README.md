@@ -9,6 +9,5 @@ This package provides functions for generating and hashing strings
 Add this to your list of dependencies in `mix.exs`:
 
 ```elixir
-{:token, "~> 0.1.0"}
-end
+{:token, "~> 0.1"}
 ```
