@@ -8,7 +8,7 @@ defmodule Token.Mixfile do
       description: "Functions for generating and hashing strings",
       elixir: "~> 1.0",
       package: package(),
-      version: "0.1.0"
+      version: "0.1.1"
     ]
   end
 
@@ -24,7 +24,7 @@ defmodule Token.Mixfile do
       links: %{
         "GitHub" => "https://github.com/hivereactor/token"
       },
-      maintainers: ["hivereactor"]
+      maintainers: ["Adrián Daraš"]
     ]
   end
 end
